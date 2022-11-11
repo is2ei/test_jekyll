@@ -24,7 +24,7 @@ bundle install
 bundle exec jekyll serve
 ```
 
-起動後は http://127.0.0.1:4000/ でアクセスできる
+起動後は http://127.0.0.1:4000/test_jekyll/ でアクセスできる
 
 
 ## Release
