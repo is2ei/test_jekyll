@@ -1,7 +1,7 @@
 # Ref: https://jekyllrb.com/docs/configuration/options/
 
-title: ~サイトのタイトルが入ります~
-copyright: ©~コピーライト表記が入ります~
+title: ~サイトタイトル~
+copyright: ©~コピーライト表記~
 description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
