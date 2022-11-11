@@ -1,20 +1,22 @@
 # Ref: https://jekyllrb.com/docs/configuration/options/
 
-title: Your awesome title
-email: your-email@example.com
+title: ~サイトのタイトルが入ります~
+copyright: ©~コピーライト表記が入ります~
 description: >-
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "/test_jekyll"
 url: ""
-twitter_username: jekyllrb
-github_username:  jekyll
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+header_pages:
+  - index.markdown
+  - page1.markdown
+  - page2.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
