@@ -24,7 +24,19 @@ bundle install
 bundle exec jekyll serve
 ```
 
-起動後は http://127.0.0.1:4000/ でアクセスできる
+起動後は http://127.0.0.1:4000/test_jekyll/ でアクセスできる
+
+
+## Release
+
+#### 1) PRを作成する 
+
+- [develop -> main](https://github.com/is2ei/test_jekyll/compare/main...develop)
+
+#### 2) レビューを依頼し、approveをもらう
+
+#### 3) マージする
+
 
 ## `github-pages`Gemの更新
 
