@@ -31,6 +31,16 @@ bundle exec jekyll serve
 ローカル環境では`github-pages`Gemを利用している。実際にGitHubで使用されるバージョンは[Dependency versions](https://pages.github.com/versions/)に記載されているので、時々確認して古くなったらGemfileを修正すること。
 
 
+## Release
+
+#### 1) PRを作成する 
+
+- [develop -> main](https://github.com/is2ei/test_jekyll/compare/main...develop)
+
+#### 2) レビューを依頼し、approveをもらう
+
+#### 3) マージする
+
 ## 依存Gemのバージョン一覧の確認
 
 ```
