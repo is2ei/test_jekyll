@@ -33,7 +33,7 @@ bundle exec jekyll serve
 
 #### 1) PRを作成する 
 
-- [develop -> main](https://github.com/is2ei/test_jekyll/compare/main...develop)
+- [main <- develop](https://github.com/is2ei/test_jekyll/compare/main...develop)
 
 #### 2) レビューを依頼し、approveをもらう
 
